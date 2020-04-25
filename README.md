@@ -1,11 +1,10 @@
-# principal-component-disaster
+# Principal Component Disaster
 
-Create labeled surrogate data sets. Perform a PCA/Class prediction with
-ovr logistic regression analysis as developed in the lecture.
+The code in this git repository visualizes the effect of dimensionality reduction of principal component analysis (PCA). Isotropic, Gaussian distributed data with 
+four classes is generated. The synthetically created data is classified with a logistic regression model. Interactive Plotly charts visualize the difference between
+data sets where classes can be differentiated easily and those where classes are very similar in feature space and are therefore hard to distinguish.
 
-(a) 4 blobs: Create clearly separable 4-blobs in 3d but also a 'disaster'
-realization with strong overlaps. Study, show and compare elbow plots
-and prediction boundaries.
+The four classes are four [data blobs](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html "sklearn documentation") in three 
+dimensional space.
+The data is reduced to two dimensions with PCA and the resulting classification plotted with decision boundaries and probability surfaces.
 
-(b) (optional) 2 touching parabola spreads as shown in the lecture, but in
-3d (not 2d). Study and show elbow plot and prediction boundaries.
