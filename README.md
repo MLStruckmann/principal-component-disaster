@@ -1,6 +1,6 @@
 # Principal Component Disaster
 
-The code in this git repository visualizes the effect of dimensionality reduction of principal component analysis (PCA). Isotropic, Gaussian distributed data with 
+The code in this Git repository visualizes the effect of dimensionality reduction of principal component analysis (PCA). Isotropic, Gaussian distributed data with 
 four classes is generated. The synthetically created data is classified with a logistic regression model. Interactive Plotly charts visualize the difference between
 data sets where classes can be differentiated easily and those where classes are very similar in feature space and are therefore hard to distinguish.
 
