@@ -38,7 +38,7 @@ Thumbs.db
 
 # Individual files #
 ####################
-MLE_CurveFitting_v0*.ipynb
+MLE_CurveFitting_v*.ipynb
 Noisy Parabola Surrogate*.ipynb
 Correlation&Surrogates*.ipynb
 PCA*.ipynb
