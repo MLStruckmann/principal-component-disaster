@@ -47,3 +47,8 @@ Correlation&Surrogates*.ipynb
 PCA*.ipynb
 ClusterMonster*.ipynb
 
+# Individual folders #
+######################
+datageneration
+surfaceprobability
+
