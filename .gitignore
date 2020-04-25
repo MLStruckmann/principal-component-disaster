@@ -36,6 +36,9 @@ ompiled source #
 ehthumbs.db
 Thumbs.db
 
+# Jupyter Notebook checkpoints #
+*checkpoint.ipynb
+
 # Individual files #
 ####################
 MLE_CurveFitting_v*.ipynb
