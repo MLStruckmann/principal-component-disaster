@@ -8,6 +8,6 @@ The four classes are four [data blobs](https://scikit-learn.org/stable/modules/g
 dimensional space.
 The data is reduced to two dimensions with PCA and the resulting classification plotted with decision boundaries and probability surfaces.
 ### Example of blob data creation
-![alt text](screenshots/0_data_generation.gif "Creating blob data")
+![alt text](screenshots/1_data_generation.gif "Creating blob data")
 ### Surface probability with test data
 ![alt text](screenshots/7_sp_22.png "Surface probability of class 1 with test data")
