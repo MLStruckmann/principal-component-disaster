@@ -7,7 +7,7 @@ data sets where classes can be differentiated easily and those where classes are
 The four classes are four [data blobs](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html "sklearn documentation") in three 
 dimensional space.
 The data is reduced to two dimensions with PCA and the resulting classification plotted with decision boundaries and probability surfaces.
-
+### Example of blob data creation
 ![alt text](screenshots/1_blob_00_withSlider.png "Creating blob data")
-
+### Surface probability with test data
 ![alt text](screenshots/7_sp_22.png "Surface probability of class 1 with test data")
